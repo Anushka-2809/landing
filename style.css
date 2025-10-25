@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: montserrat;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.6;
 }
 
@@ -83,12 +83,14 @@ body {
     line-height: 1.2;
     margin-bottom: 1.5rem;
     color: #333;
+    font-weight: 700;
 }
 
 .hero-content p {
     color: #666;
     margin-bottom: 2rem;
     max-width: 500px;
+    font-weight: 400;
 }
 
 .cta-buttons {
